@@ -25,6 +25,8 @@ repository.
 
 **Make a commit after each prompt.**
 
+If you're still having issues submitting homework please review the [homework submission](https://git.generalassemb.ly/jd-seir-6/getting-started/wiki/Homework-Submissions) page, and remember that [lesson recordings](https://git.generalassemb.ly/jd-seir-6/getting-started/blob/master/lesson_recordings.md) are uploaded for your reference once they have been processed by Zoom. We appreciate your patience on referencing these videos, as we are **not** in control in the turnaround time on the processing of these videos. 
+
 ## Requirements
 
 There are a series of prompts inside [`lib/challenge.js`](lib/challenge.js).
