@@ -3,7 +3,7 @@
 # Functions Practice
 
 The purpose of this exercise is to practice working with functions. Think of it
-as doing reps or practicing scales! The more you practice, the better you'll
+as doing reps 🏋️‍♂️ or practicing scales 🎼! The more you practice, the better you'll
 get.
 
 ## Prerequisites
@@ -29,12 +29,10 @@ repository.
 
 There are a series of prompts inside [`lib/challenge.js`](lib/challenge.js).
 Work through all of the prompts. Each prompt is in the form of a JavaScript
-comment. Write your code to solve the prompt after the comment.
+comment. Write your code to solve the prompt _after_ the comment. _**Note: Some prompts will require you to practice researching methods we did not learn
+in class.**_ 
 
-Some prompts will require you to practice researching methods we did not learn
-in class.
-
-**You are required to make a commit after each prompt.**
+🔴 **You are _required_ to make a commit after _each_ prompt.** 🔴
 
 ## Plagiarism
 
